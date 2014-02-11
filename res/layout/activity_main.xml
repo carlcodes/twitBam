@@ -12,44 +12,28 @@
 		android:layout_marginRight="10dp"
 		android:layout_marginTop="30dp" />
 
-
-	<TextView android:id="@+id/lblUserName"
-		android:layout_width="fill_parent"
-		android:layout_height="wrap_content"
-		android:padding="10dp"
-		android:layout_marginTop="30dp" />
-
 	<!-- label update status -->
-	<TextView android:id="@+id/lblUpdate"
-		android:text="Update Status"
-		android:layout_width="fill_parent"
-		android:layout_height="wrap_content"
-		android:layout_marginLeft="10dip"
-		android:layout_marginRight="10dip"
-		/>
 
 	<!-- Tweet EditText -->
-	<EditText android:id="@+id/txtUpdateStatus"
-		android:layout_width="fill_parent"
-		android:layout_height="wrap_content"
-		android:layout_margin="10dip"
-		/>
+	
 
 	<!-- Search Button -->
-	<Button android:id="@+id/btnUpdateStatus"
-		android:layout_width="fill_parent"
-		android:layout_height="wrap_content"
-		android:text="Search"
-		android:layout_marginLeft="10dip"
-		android:layout_marginRight="10dip"
-		/>
-	     
 
+	<Button
+	    android:id="@+id/btnUpdateStatus"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_marginLeft="10dip"
+	    android:layout_marginRight="10dip"
+	    android:text="Run bot" />
 
-	<ListView
-	    android:id="@+id/listView1"
-	    android:layout_width="match_parent"
-	    android:layout_height="wrap_content" >
-	</ListView>
+	<Button
+	    android:id="@+id/btnLogoutTwitter"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_gravity="center_horizontal"
+	    android:layout_marginLeft="10dp"
+	    android:layout_marginRight="10dp"
+	    android:text="Logout" />
 
 </LinearLayout>
