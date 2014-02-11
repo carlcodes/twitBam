@@ -5,7 +5,7 @@ a lot of this is taken from a tutorial. most of this code is not mine, but I hav
 EDIT:
 <h1></h1>
 <h1>Wanna hear a story? I turned this into a twitter bot</h1>
-<h2>to win my roommate $650</h2>
+<p>to win my roommate $650</p>
 <p>My roommate is a turf major at MSU. He does a lot of work with how to manage golf courses and stuff, and he was a part of a competition with other universities taken place in florida.</p>
 <p>One of the competitions was who has the most school spirit and can hashtag your university name and #GIS14_turfbowl. Easy, right?</p>
 <p>My roommate found that Penn State started getting dirty and someone made a tiwtter bot. At first they were not going to stoop that low until they gave the GIS top execs a call to get the OK.</p>
