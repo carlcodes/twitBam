@@ -2,7 +2,9 @@ I don't really know what I'm doing. This is me playing around with the twitter a
 
 a lot of this is taken from a tutorial. most of this code is not mine, but I have done some alterings and I understand how most of the code works.
 
-<h1>Edit - Wanna Story? I turned this into a twitter bot</h1>
+EDIT:
+<h1></h1>
+<h1>Wanna hear a story? I turned this into a twitter bot</h1>
 <h2>to win my roommate $650</h2>
 <p>My roommate is a turf major at MSU. He does a lot of work with how to manage golf courses and stuff, and he was a part of a competition with other universities taken place in florida.</p>
 <p>One of the competitions was who has the most school spirit and can hashtag your university name and #GIS14_turfbowl. Easy, right?</p>
